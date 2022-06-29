@@ -1,5 +1,5 @@
 # Menu_Pizza
 
-☑ Uma aplicação construída usando HTML - CSS - Javascript baseada no módulo de Javascript da plataforma B7Web
+☑ Uma aplicação simulando um menu de um aplicativo de uma pizzaria - construído usando HTML - CSS - Javascript
 
 🌐 Link para visualização: https://lnkd.in/ePBMqTVU
